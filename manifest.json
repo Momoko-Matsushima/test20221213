@@ -18,7 +18,7 @@
       },
       {
         "matches": ["https://twitter.com/*"],
-        "js": ["muteword.js"]
+        "js": ["twitter.js"]
       }
     ]
 
