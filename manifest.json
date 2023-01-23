@@ -15,7 +15,12 @@
       {
         "matches": ["https://tabelog.com/*"],
         "css": ["photochange.css"]
+      },
+      {
+        "matches": ["https://twitter.com/*"],
+        "js": ["muteword.js"]
       }
     ]
+
   }
   
