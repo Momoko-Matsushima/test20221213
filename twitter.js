@@ -2,7 +2,7 @@
 
 let oReactions = document.querySelectorAll(".r-q3we1");
 for(let i = 0; i < oReactions.length; i++){
-  let e = reactions[i];
+  let e = oReactions[i];
   e.style.display = 'none';
 }
 
